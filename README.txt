@@ -48,13 +48,6 @@ If a departing has just one neighbour, then it simply terminates the TCP connect
 it chooses one of its neighbours as the neighbour of all its other neighbours (unless they aren't already neighbours).
 Then, it should terminate all its TCP connections and ongoing file transfers.
 
-### Project Details
-Project Members:
-Project Group - 35
-1. Riyaz Shaik (UFID: 4360 - 0170)
-2. Akshay Ganapathy (UFID: 3684 - 6922)
-3. Kapish Yadav (UFID: 9882 - 6143)
-
 Steps to Run the project:
 1. Add tree.jpg file in 1001 folder and add Common.cfg and PeerInfo.cfg as needed 
 2. Run make command to compile the code
